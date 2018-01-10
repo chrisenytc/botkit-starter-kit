@@ -1,6 +1,6 @@
 # Botkit Starter Kit
 
-[![Maintenance](https://img.shields.io/maintenance/yes/2018.svg?maxAge=2592000)]() [![License](https://img.shields.io/github/license/chrisenytc/ubauth.svg?maxAge=2592000)](https://github.com/chrisenytc/ubauth/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/chrisenytc.svg?style=social&label=Follow&maxAge=2592000)](http://twitter.com/chrisenytc) [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)](https://twitter.com/intent/tweet?text=Awesome%20https://github.com/chrisenytc/ubauth%20via%20@chrisenytc)
+[![Maintenance](https://img.shields.io/maintenance/yes/2018.svg?maxAge=2592000)]() [![License](https://img.shields.io/github/license/chrisenytc/botkit-starter-kit.svg?maxAge=2592000)](https://github.com/chrisenytc/botkit-starter-kit/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/chrisenytc.svg?style=social&label=Follow&maxAge=2592000)](http://twitter.com/chrisenytc) [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)](https://twitter.com/intent/tweet?text=Awesome%20https://github.com/chrisenytc/botkit-starter-kit%20via%20@chrisenytc)
 
 > A bot to help your teams automate things
 
