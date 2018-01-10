@@ -15,6 +15,8 @@ module.exports = function registerDeployment (webserver, controller) {
         ts: new Date()
       }
 
+      Debug('Making request to register deployment.')
+
       const Opts = {
         baseURL: controller.config.studio_command_uri || 'https://studio.botkit.ai/api/v1',
         params: {
@@ -27,6 +29,7 @@ module.exports = function registerDeployment (webserver, controller) {
       return Client.post('/bots/phonehome', Querystring.stringify(Instance))
         .then(() => {
           registeredThisSession = true
+          Debug('Deployment registered successfully.')
         })
         .catch((err) => {
           Debug('Error registering instance with Botkit Studio', err)
