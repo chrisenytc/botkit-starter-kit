@@ -37,6 +37,9 @@ $ nvim .env
 $ make start
 ```
 
+## Setup Slack
+Click [here](docs/slack.md) to see how to setup your Slack App.
+
 ## Conventions of commit messages
 
 Addding files on repo
