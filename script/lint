@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "Linting codebase..."
+
+./node_modules/eslint/bin/eslint.js .
