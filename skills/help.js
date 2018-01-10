@@ -18,8 +18,8 @@ module.exports = function help (controller) {
         Debug(`BEFORE: help => Matched thread ${Matches[1]}`)
         convo.gotoThread(Matches[1])
       }
-      Debug('BEFORE: help => Call next')
-      next()
     }
+    Debug('BEFORE: help => Call next')
+    next()
   })
 }
