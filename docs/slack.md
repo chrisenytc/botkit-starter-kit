@@ -18,7 +18,7 @@ for use in the following steps.
 ## 2) Turn on your Botkit app
 
 Now that you've got your clientId and clientSecret, you can start your Botkit app.
-Assuming you are using the [Botkit Slack Starter Kit](https://github.com/chrisenytc/botkit-starter-kit),
+Assuming you are using the [Botkit Starter Kit](https://github.com/chrisenytc/botkit-starter-kit),
 this can be done by passing the values in via the .env file:
 
 ```
