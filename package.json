@@ -23,6 +23,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "axios": "0.16.2",
+    "ramda": "0.25.0",
+    "bunyan": "1.8.12",
+    "moment": "2.19.3",
+    "moment-timezone": "0.5.14",
+    "bluebird": "3.5.1",
+
     "body-parser": "1.15.2",
     "botkit": "0.6.7",
     "botkit-storage-redis": "1.1.0",
