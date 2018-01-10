@@ -2,9 +2,9 @@ const Request = require('axios')
 const Querystring = require('querystring')
 const Debug = require('debug')('botkit:register-deployment')
 
-module.exports = function registerDeployment (webserver, controller) {
-  let registeredThisSession = false
+let registeredThisSession = false
 
+module.exports = function registerDeployment (webserver, controller) {
   controller.registerDeployWithStudio = function registerDeployWithStudio (host) { // eslint-disable-line
     if (!registeredThisSession && controller.config.studio_token) {
       // information about this instance of Botkit
