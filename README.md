@@ -55,3 +55,6 @@ Bug reports and pull requests are welcome on GitHub at [https://github.com/chris
 
 ## Support
 If you have any problem or suggestion please open an issue [here](https://github.com/chrisenytc/botkit-starter-kit/issues).
+
+## Credits
+This is a fork of the project [botkit-starter-slack](https://github.com/howdyai/botkit-starter-slack).
