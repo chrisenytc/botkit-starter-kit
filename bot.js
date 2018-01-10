@@ -21,7 +21,7 @@ This bot demonstrates many of the core features of Botkit:
 
   Create a new app via the Slack Developer site:
 
-    -> http://api.slack.com
+    -> http://api.slack.com/apps
 
   Configure your environment variables in .env:
 
