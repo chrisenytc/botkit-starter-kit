@@ -1,0 +1,12 @@
+.git
+.env
+.env.example
+.DS_Store
+.editorconfig
+tmp
+node_modules
+README.md
+Dockerfile
+docker-compose.yml
+Makefile
+npm-debug.log
