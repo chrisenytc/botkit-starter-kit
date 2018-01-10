@@ -1,25 +1,20 @@
-```bash
-                       ___       __       _______ .______       _______  _______
-                      /   \     |  |     |   ____||   _  \     |   ____||       \
-                     /  ^  \    |  |     |  |__   |  |_)  |    |  |__   |  .--.  |
-                    /  /_\  \   |  |     |   __|  |      /     |   __|  |  |  |  |
-                   /  _____  \  |  `----.|  |     |  |\  \----.|  |____ |  '--'  |
-                  /__/     \__\ |_______||__|     | _| `._____||_______||_______/
-```
+# Botkit Starter Kit
 
-> A bot to help our teams automate things
+[![Maintenance](https://img.shields.io/maintenance/yes/2018.svg?maxAge=2592000)]() [![License](https://img.shields.io/github/license/chrisenytc/ubauth.svg?maxAge=2592000)](https://github.com/chrisenytc/ubauth/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/chrisenytc.svg?style=social&label=Follow&maxAge=2592000)](http://twitter.com/chrisenytc) [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&maxAge=2592000)](https://twitter.com/intent/tweet?text=Awesome%20https://github.com/chrisenytc/ubauth%20via%20@chrisenytc)
+
+> A bot to help your teams automate things
 
 ## Getting Started
 
-1º Clone alfred repo
+1º Clone botkit-starter-kit repo
 
 ```bash
-$ git clone git@github.com:hashlab/alfred.git
+$ git clone git@github.com:chrisenytc/botkit-starter-kit.git
 ```
 
-2º Enter in alfred directory
+2º Enter in botkit-starter-kit directory
 ```bash
-$ cd alfred
+$ cd botkit-starter-kit
 ```
 
 3º Run the setup script
@@ -40,52 +35,23 @@ $ make start
 ## Setup Slack
 Click [here](docs/slack.md) to see how to setup your Slack App.
 
-## Conventions of commit messages
+## Donate
 
-Addding files on repo
+If **Botkit Starter Kit** was helpful for you, send a donation as a thank you. :)
 
-```bash
-git commit -m "Add filename"
-```
+![Bitcoin](bitcoin-address.png)
 
-Updating files on repo
+**Bitcoin Adddress**: `3NJuBfiLvJtpxgwDARDEhGRPb3TnjuLs3h`
 
-```bash
-git commit -m "Update filename, filename2, filename3"
-```
+## Contributing
 
-Removing files on repo
+Bug reports and pull requests are welcome on GitHub at [https://github.com/chrisenytc/botkit-starter-kit](https://github.com/chrisenytc/botkit-starter-kit). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-```bash
-git commit -m "Remove filename"
-```
+1. Fork it [chrisenytc/botkit-starter-kit](https://github.com/chrisenytc/botkit-starter-kit/fork)
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am "Add some feature"`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
 
-Renaming files on repo
-
-```bash
-git commit -m "Rename filename"
-```
-
-Fixing errors and issues on repo
-
-```bash
-git commit -m "Fixed #issuenumber Message about this fix"
-```
-
-Adding features on repo
-
-```bash
-git commit -m "Add feature: nameoffeature Message about this feature"
-```
-
-Updating features on repo
-
-```bash
-git commit -m "Update feature: nameoffeature Message about this update"
-```
-
-Removing features on repo
-
-```bash
-git commit -m "Remove feature: nameoffeature Message about this"
-```
+## Support
+If you have any problem or suggestion please open an issue [here](https://github.com/chrisenytc/botkit-starter-kit/issues).
