@@ -1,4 +1,4 @@
-const Debug = require('debug')('botkit:rtm_manager')
+const Debug = require('debug')('botkit:rtm-manager')
 
 module.exports = function rtmManager (controller) {
   const ManagedBots = {}

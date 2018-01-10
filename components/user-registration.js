@@ -1,4 +1,4 @@
-const Debug = require('debug')('botkit:user_registration')
+const Debug = require('debug')('botkit:user-registration')
 
 module.exports = function userRegistration (controller) {
   /* Handle event caused by a user logging in with oauth */
