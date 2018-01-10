@@ -3,6 +3,7 @@
 .env.example
 .DS_Store
 .editorconfig
+docs
 tmp
 node_modules
 README.md
