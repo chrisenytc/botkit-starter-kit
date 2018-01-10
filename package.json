@@ -1,17 +1,17 @@
 {
-  "name": "alfred",
+  "name": "botkit-starter-kit",
   "version": "1.0.0",
-  "description": "A bot to help our teams automate things",
+  "description": "A bot to help your teams automate things",
   "private": true,
-  "author": "Christopher Enytc <chris@hashlab.com.br>",
+  "author": "Christopher Enytc <chris@enytc.com>",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/hashlab/alfred#readme",
+  "homepage": "https://github.com/chrisenytc/botkit-starter-kit#readme",
   "bugs": {
-    "url": "https://github.com/hashlab/alfred/issues"
+    "url": "https://github.com/chrisenytc/botkit-starter-kit/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hashlab/alfred.git"
+    "url": "git+ssh://git@github.com/chrisenytc/botkit-starter-kit.git"
   },
   "main": "bot.js",
   "engines": {
