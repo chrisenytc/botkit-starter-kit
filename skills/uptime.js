@@ -29,7 +29,7 @@ module.exports = function update (controller) {
   })
 
   controller.on('conversationStarted', () => {
-    Stats.convos -= 1
+    Stats.convos += 1
   })
 
   controller.hears(['^uptime', '^debug'], 'direct_message,direct_mention', (bot, message) => {
